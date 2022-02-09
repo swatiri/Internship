@@ -5,7 +5,7 @@ My name is Sharon Watiri, a Bionformatics intern  at ICIPE. I have a background 
 
 ## Mission
 
-To complete the program and thereby acquiring the skill set that the program was intended to impart, obtain mentorship and further pursue Bionformatics for my postgraduate studies in the near future.
+To complete the program and thereby acquiring the skill set that the program was intended to impart and more, obtain mentorship and further pursue Bionformatics for my postgraduate studies in the near future.
 
 ### Vision
 
